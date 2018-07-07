@@ -1,0 +1,16 @@
+com\msg\alamsutera\dao\UserWasLoginDaoImpl$UserRowMapper.class
+com\msg\alamsutera\dao\UserResidenceDaoImpl$UserRowMapper.class
+com\msg\alamsutera\controller\UserWasLoginController.class
+com\msg\alamsutera\dao\UserResidenceDao.class
+com\msg\alamsutera\dao\UserSecActivityDaoImpl$UserRowMapper.class
+com\msg\alamsutera\MainAlamSutera.class
+com\msg\alamsutera\dao\UserSecActivityDao.class
+com\msg\alamsutera\model\UserSecActivityModel.class
+com\msg\alamsutera\dao\UserResidenceDaoImpl.class
+com\msg\alamsutera\model\UserWasLoginModel.class
+com\msg\alamsutera\dao\UserWasLoginDao.class
+com\msg\alamsutera\controller\UserResidenceController.class
+com\msg\alamsutera\dao\UserSecActivityDaoImpl.class
+com\msg\alamsutera\dao\UserWasLoginDaoImpl.class
+com\msg\alamsutera\controller\UserSecController.class
+com\msg\alamsutera\model\UserResidenceModel.class
